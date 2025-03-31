@@ -123,6 +123,7 @@ def predict_from_test(index):
 ```
 ## Ссылки
 Датасет: mertcobanov/animals на Hugging Face
+https://huggingface.co/datasets/mertcobanov/animals
 
 Использованная архитектура: EfficientNet-B0
 
